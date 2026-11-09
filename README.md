@@ -46,7 +46,15 @@ Suggested resource:
 
 ### Later: Generative AI
 
-Generative AI is also part of AI Foundations, but we will leave it for later rather than cover it during these two weeks. If you are interested, feel free to find books and other learning resources on your own.
+Generative AI studies models that learn the structure of data and generate new samples, such as images, audio, and text. Here, we will explore the foundations of generative modeling, including:
+
+- **Variational Autoencoders (VAEs)**: learn a probabilistic latent representation of data and generate new samples by sampling from a latent prior and decoding them.
+- **Generative Adversarial Networks (GANs)**: train a generator and a discriminator together, with the generator learning to produce samples that the discriminator cannot distinguish from real data.
+- **Diffusion Models**: learn to reverse a gradual noising process, generating samples by starting from noise and progressively denoising it.
+
+LLMs are also generative models and are covered in the LLM section above.
+
+These additional generative modeling topics are part of AI Foundations, but we will leave them for later rather than cover them during these two weeks. If you are interested, feel free to find books and other learning resources on your own.
 
 ## How to Participate and What to Submit
 
